@@ -1,19 +1,3 @@
-=begin
-decor scrollable - OK
-perso au centre - OK
-tir dans plusieurs direction
-plusieurs types de tir
-plateforme (pas de collision haute / on peut sauter vers le bas)
-
-map fichier image - OK
-
-sound effects
-Muncheybobo
-pixabay
-universfield
-SubspaceAudio
-=end
-
 require 'gosu'
 require_relative './utils.rb'
 require_relative './map.rb'
